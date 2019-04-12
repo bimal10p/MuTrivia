@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MuTrivia</string>
+    <string name="qTitle">Hello World</string>
+    <string name="radioButton1">Option1</string>
+    <string name="radioButton2">Option2</string>
+    <string name="radioButton3">Option3</string>
+    <string name="progressBar">ProBar</string>
+    <string name="submitButton">ENTER</string>
+</resources>
